@@ -10,7 +10,6 @@ This project is aimed at understanding customer repayment behavior using Python 
 📂 Customer_Retention_Analysis/
 │
 ├── Data.py                                       # Python script for EDA
-├── Practice.py                                   # Detailed Python script for EDA
 ├── customer_repayment_data.csv                   # Original raw dataset
 ├── customer_repayment_data_updated.csv           # Data with new features
 ├── Reworked_Customer_Repayment_Analysis.xlsx     # Combined Excel output with all sheets
