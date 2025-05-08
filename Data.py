@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 # Load the dataset
-cra_df = pd.read_csv('/Users/mohnisharora/Documents/github_repos/Customer_Retention_Analysis/customer_repayment_data.csv')
+cra_df = pd.read_csv('/Users/mohnisharora/Documents/github_repos/Customer_Repayment_Analysis/customer_repayment_data.csv')
 
 # Preview data
 print(cra_df.head())
